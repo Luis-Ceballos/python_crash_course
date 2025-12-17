@@ -3,13 +3,9 @@ print(1 + 2)  # Addition operator
 print(10 - 5)  # Subtraction operator
 print(5 * 3)  # Multiplication operator
 print(4 / 2)  # Division operator
-print(
-    10 % 3
-)  # Modulous operator gives you the remainder (3 goes into 10, 3 times with a remainder of 1)
+print(10 % 3)  # Modulous operator gives you the remainder (3 goes into 10, 3 times with a remainder of 1)
 print(9**2)  # Exponential powers operator raises to whatever power (9^2 -> 81)
-print(
-    10 // 3
-)  # Floor division will only return the integer value not the float value -> 3
+print(10 // 3)  # Floor division will only return the integer value not the float value -> 3
 
 # Reassignment operators
 a: int = 5
